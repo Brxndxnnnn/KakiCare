@@ -15,7 +15,7 @@ Django==5.2.14
 djangorestframework==3.18.0
 django-cors-headers==4.9.0
 argon2-cffi==25.1.0
-django-otp==1.7.0
+django-otp==1.7.3
 django-environ==0.14.0
 psycopg[binary]==3.3.4
 gunicorn==26.2.0
